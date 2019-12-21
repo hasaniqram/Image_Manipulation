@@ -3,8 +3,7 @@
 Image Manipulation Manual
   created by Kristine Malveda 
   
- The Image Manipulation program is a last project to be submitted by yours truly and
- it is created in JAVA programming language.  
+ The Image Manipulation program is a school project and it is created in JAVA programming language.  
  
  The program allows the user to manipulate the color of the desired image.
 
