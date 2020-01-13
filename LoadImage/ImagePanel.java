@@ -36,7 +36,7 @@ public class ImagePanel extends JPanel {
 		}
 	}
 
-	//Color the image to red
+	//Color the image red
 	public void redScale() {
 		if (image == null)
 			return;

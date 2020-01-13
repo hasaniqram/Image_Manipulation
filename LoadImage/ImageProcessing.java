@@ -24,7 +24,7 @@ public class ImageProcessing extends JFrame {
 
 	public ImageProcessing() {
 		
-		//The default image file
+		//The default image file -testing
 		try {
 			imagePanel = new ImagePanel(ImageIO.read(new File("bee.png")));
 			
