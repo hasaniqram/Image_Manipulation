@@ -36,6 +36,7 @@ public class ImageProcessing extends JFrame {
 		buttonPanel = new JPanel();
 		buttonPanel.setLayout(new FlowLayout(FlowLayout.CENTER));
 		
+		//buttons for Scaling
 		rsButton = new JButton("Redscale");
 		rsButton.addActionListener(new ButtonEvent());
 		gsButton = new JButton("Grayscale");
